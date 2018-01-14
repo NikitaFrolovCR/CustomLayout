@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">CustomLayout</string>
+    <string name="nothing_choose">Nothing choose</string>
+
+    <string-array name="count_image">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+    </string-array>
 </resources>
